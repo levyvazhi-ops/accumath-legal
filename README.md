@@ -1,2 +1,0 @@
-# accumath-legal
-Mathsapp
